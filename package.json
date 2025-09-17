@@ -1,5 +1,5 @@
 {
-  "name": "my-goals",
+  "name": "daily_habit",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -16,11 +16,14 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
+    "@react-native-community/slider": "^5.0.1",
+    "@react-native-firebase/app": "^23.3.1",
     "@react-navigation/bottom-tabs": "^7.2.0",
     "@react-navigation/native": "^7.0.14",
     "expo": "^53.0.8",
     "expo-blur": "~14.1.4",
     "expo-constants": "~17.1.6",
+    "expo-dev-client": "~5.2.4",
     "expo-font": "~13.3.1",
     "expo-haptics": "~14.1.4",
     "expo-linking": "~7.1.4",
@@ -30,9 +33,11 @@
     "expo-symbols": "~0.4.4",
     "expo-system-ui": "~5.0.7",
     "expo-web-browser": "~14.2.0",
+    "firebase": "^12.2.1",
     "react": "19.0.0",
     "react-dom": "19.0.0",
     "react-native": "0.79.5",
+    "react-native-calendars": "^1.1313.0",
     "react-native-gesture-handler": "~2.24.0",
     "react-native-reanimated": "~3.17.4",
     "react-native-safe-area-context": "5.4.0",

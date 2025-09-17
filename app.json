@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-goals",
-    "slug": "my-goals",
+    "name": "Daily Habit",
+    "slug": "daily_habit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
